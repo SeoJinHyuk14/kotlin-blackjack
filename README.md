@@ -1,5 +1,7 @@
 # kotlin-blackjack
 
+require 디렉토리 참조 
+
 ## 코틀린 DSL 실습
 ```
 introduce {
